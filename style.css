@@ -1,0 +1,314 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    text-align: center;
+}
+
+.menu {
+    display: inline;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.menu ul {
+    display: inline;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.logo {
+    display: inline;
+    position: relative;
+    right: 15%;
+    top: 7px;
+}
+
+.button {
+    display: inline;
+    margin-right: 5px;
+}
+
+.form {
+    display: inline;
+}
+
+.button button {
+    padding: 2px;
+}
+
+.form select {
+    padding: 2px;
+}
+.p h3 {
+    color: red;
+    margin-bottom: 15px;
+}
+
+.p h1 {
+    font-size: 68px;
+    line-height: 1.1;
+}
+
+.p p {
+    font-size: 15px;
+}
+.section {
+    display: flex;
+    margin-top: 2%;
+    background-image: url(jpg/Decore.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.p {
+    margin: 10% 0% 0% 6%;
+}
+
+.button2 button {
+    padding: 8px;
+    margin-top: 15px;
+    margin-left: 5px;
+    background-color: #F1A501;
+    color: white;
+    border: unset;
+    border-radius: 7px;
+}
+
+.play {
+    position: relative;
+    bottom: 7.5%;
+    left: 25%;
+}
+.play img {
+    width: 120px;
+}
+.img img{
+    width: 700px;
+    height: 664px;
+    top: 105px;
+    left: 565px;
+}
+.h1{
+    text-align: center;
+    margin-top: 2%;
+}
+.h2{
+    text-align: center;
+    font-size: 20px;
+}
+.section2{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+.box1, .box2, .box3, .box4{
+    width: 25%;
+    height: 250px;
+    text-align: center;
+}
+.box2{
+    box-shadow: 2px 1px 10px ;
+    border-radius: 40px;
+    padding-top: 10px;
+}
+.imge1{
+    position: relative;
+    bottom: 40px;
+}
+.box2 h4{
+    position: relative;
+    bottom: 80px;
+}
+.box2 p{
+    position: relative;
+    bottom: 80px;
+}
+.Top-Selling, .Top-Destinations{
+    text-align: center;
+    margin-top: 80px;
+}
+.Top-Destinations{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.section3{
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+.part1, .part2, .part3{
+    width: 30%;
+}
+.section4{
+    width: 100%;
+    margin-top: -50px;
+    display: flex;
+}
+.sec1 ,.sec2{
+    width: 50%;
+}
+.sec1 img{
+    margin-bottom: 50px;
+}
+.sec1{
+    margin-left: 15%;
+}
+.sec1 h2{
+    font-size: 30px;
+}
+.choose{
+    display: flex;
+    margin-top: 20px;
+}
+.choose p{
+    position: relative;
+    top: 15px;
+    right: 70px;
+}
+.choose h6{
+    margin-left: 20px;
+}
+.choose img{
+    margin-top: 5px;
+}
+.make, .reach{
+    display: flex;
+}
+.make p{
+    position: relative;
+    top: 15px;
+    right: 70px;
+}
+.make h6{
+    margin-left: 20px;
+}
+.make img{
+    margin-top: 5px;
+
+}
+.reach p{
+    position: relative;
+    top: 15px;
+    right: 70px;
+}
+.reach h6{
+    margin-left: 20px;
+}
+.reach img{
+    margin-top: 5px;
+}
+.sec2 img{
+    margin-top: -170px;
+    margin-left: -30px;
+}
+.section5{
+    width: 100%;
+    display: flex;
+}
+.sub1, .sub2{
+    width: 20%;
+}
+.sub1{
+    margin-left: 15%;
+}
+.sub2 img{
+    margin-right: 30%;
+}
+.matn h1{
+    font-size: 35px;
+}
+.matn img{
+    margin-top:80px;
+}
+.section6{
+    width: 100%;
+    display: flex;
+    margin: -50px;
+}
+.axon, .jetstar, .expedia, .qantas, .alitalia{
+    width: 25%;
+    text-align: center;
+}
+.axon{
+    position: relative;
+    top: 20px;
+}
+.expedia{
+    margin-top: 30px;
+}
+.qantas{
+    position: relative;
+    top: 70px;
+
+}
+.alitalia{
+    position: relative;
+    top: 70px;
+}
+.section7{
+    width: 80%;
+    background-color: #dfe4db;
+    border-radius: 90px 10px 10px 10px;
+    padding: 60px;
+    margin: 50PX auto;
+}
+.parag{
+    text-align: center;
+}
+.parag h2{
+    font-size: 30px;
+}
+.form2 form{
+    text-align: center;
+    margin-right: 10%;
+    margin-top: 4%;
+}
+#email{
+    padding: 10px;
+    border-radius: 5px;
+    border: unset;
+    background-color: rgb(246, 241, 235);
+}
+#submit{
+    padding: 10px;
+    background-color:#e76739;
+    border: unset;
+    color: white;
+    border-radius: 10px;
+}
+footer{
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+.footer1, .footer2, .footer3, .footer4, .footer5{
+    width: 20%;
+}
+.rank{
+    margin-top: 20px;
+    text-align: center;
+}
+.footer5 p{
+    margin-bottom: 20px;
+}
+.footer2 ul{
+    list-style-type: none;
+}
+.footer3 ul{
+    list-style-type: none;
+}
+.footer4 ul{
+    list-style-type: none;
+}
+
